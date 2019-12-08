@@ -1,0 +1,44 @@
+body{
+    font: 25px Arial, sans-serif;
+}
+
+.navbar{
+    background-color: lightskyblue;
+}
+
+.c-vw{
+    background-color: grey;
+    color: blue;
+}
+
+.c-bmw{
+    background-color: grey;
+    color: blue;
+}
+
+.c-fiat{
+    background-color: grey;
+    color: blue;
+}
+
+.c-sub-vw{
+    background-color: lightskyblue;
+}
+
+.c-sub-bmw{
+    background-color: lightskyblue;
+}
+
+.c-sub-fiat{
+    background-color: lightskyblue;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
